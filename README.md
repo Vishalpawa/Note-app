@@ -17,17 +17,17 @@ A simple and secure note-taking web application built with **React**, **Vite**, 
 - [Tailwind CSS](https://tailwindcss.com/)
 - [crypto-js](https://github.com/brix/crypto-js)
 - [React Router](https://reactrouter.com/)
+
  
+## 🔗 Live Demo
+
+https://note-app-teal-nu.vercel.app/
+
 ## 📦 Installation
 
 Clone the repository and install dependencies:
 Run this commands in your terminal.
 
-
-
-## 🔗 Live Demo
-
-https://note-app-teal-nu.vercel.app/
 
 ```bash
 git clone https://github.com/Vishalpawa/Secure-Notes-app.git
