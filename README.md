@@ -23,13 +23,14 @@ A simple and secure note-taking web application built with **React**, **Vite**, 
 Clone the repository and install dependencies:
 Run this commands in your terminal.
 
+
+
+## 🔗 Live Demo
+
+https://note-app-teal-nu.vercel.app/
+
 ```bash
 git clone https://github.com/Vishalpawa/Secure-Notes-app.git
 cd Secure-Notes-app
 npm install
 npm run dev
-
-
-## 🔗 Live Demo
-
-https://secure-note-app.vercel.app/
