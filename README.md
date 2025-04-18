@@ -1,12 +1,35 @@
-# React + Vite
+Secure Notes App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and secure note-taking web application built with **React**, **Vite**, and **Tailwind CSS**. Notes are **encrypted using **crypto-js** and stored safely in the browser’s **localStorage**`.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 📝 Create and store notes
+- ✏️ Workin on Edit existing notes And Delete notes
+- 🔐 Encrypted storage using `crypto-js`
+- 🌐 Responsive design with Tailwind CSS
+- ⚡️ Built using Vite for fast performance
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [crypto-js](https://github.com/brix/crypto-js)
+- [React Router](https://reactrouter.com/)
+ 
+## 📦 Installation
+
+Clone the repository and install dependencies:
+Run this commands in your terminal.
+
+```bash
+git clone https://github.com/Vishalpawa/Secure-Notes-app.git
+cd Secure-Notes-app
+npm install
+npm run dev
+
+
+## 🔗 Live Demo
+
+https://secure-note-app.vercel.app/
