@@ -30,7 +30,7 @@ Run this commands in your terminal.
 
 
 ```bash
-git clone https://github.com/Vishalpawa/Secure-Notes-app.git
-cd Secure-Notes-app
+git clone https://github.com/Vishalpawa/Note-app.git
+cd Note-app
 npm install
 npm run dev
